@@ -1,3 +1,5 @@
 # Simon_Game
 
-This is Simon Game
+This is development branch
+
+Hi, hello world
